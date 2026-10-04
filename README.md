@@ -13,6 +13,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Unnati1501/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Unnati1501/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Unnati1501/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Unnati1501/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Unnati1501/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
@@ -49,6 +50,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Unnati1501/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Unnati1501/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Unnati1501/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Unnati1501/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Unnati1501/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Unnati1501/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bracket Sequences
@@ -74,5 +76,10 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/Unnati1501/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Unnati1501/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
+## Array
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/Unnati1501/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
