@@ -12,6 +12,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Unnati1501/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Unnati1501/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Unnati1501/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Unnati1501/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Unnati1501/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
