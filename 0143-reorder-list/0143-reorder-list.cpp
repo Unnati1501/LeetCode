@@ -11,23 +11,30 @@
 class Solution {
 public:
     void reorderList(ListNode* head) {
-        ListNode* temp=head;
-        vector<int>v;
+        ListNode* slow=head;
+        ListNode* fast=head;
+        while(fast->next && fast->next->next){
+            slow=slow->next;
+            fast=fast->next->next;
+        }
+        ListNode* temp=slow->next;
+        slow->next=NULL;
+        ListNode* prev=NULL;
+        ListNode* fwd=NULL;
         while(temp!=NULL){
-            v.push_back(temp->val);
-            temp=temp->next;
+            fwd=temp->next;
+            temp->next=prev;
+            prev=temp;
+            temp=fwd;
         }
         temp=head;
-        int l=0;
-        int r=v.size()-1;
-        while(temp!=NULL){
-            temp->val=v[l];
-            temp=temp->next;
-            if(temp==NULL) break;
-            temp->val=v[r];
-            temp=temp->next;
-            l++;
-            r--;
+        while(temp && prev){
+            ListNode* first=temp->next;
+            ListNode* second=prev->next;
+            temp->next=prev;
+            prev->next=first;
+            temp=first;
+            prev=second;
         }
     }
 };
