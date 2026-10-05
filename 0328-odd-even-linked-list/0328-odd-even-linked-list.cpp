@@ -14,30 +14,16 @@ public:
         if(head==NULL || head->next==NULL){
             return head;
         }
-        ListNode* temp=head;
-        ListNode* temp1=head;
-        ListNode* temp2=head->next;
-        vector<int> v;
-        while(temp1){
-            v.push_back(temp1->val);
-            temp1=temp1->next;
-            if(temp1){
-                temp1=temp1->next;
-            }
+        ListNode* temp=head->next;
+        ListNode* slow=head;
+        ListNode* fast=head->next;
+        while(fast && fast->next){
+            slow->next=fast->next;
+            slow=fast->next;
+            fast->next=slow->next;
+            fast=slow->next;
         }
-        while(temp2){
-            v.push_back(temp2->val);
-            temp2=temp2->next;
-            if(temp2){
-                temp2=temp2->next;
-            }
-        }
-        int i=0;
-        while(temp){
-            temp->val=v[i];
-            i++;
-            temp=temp->next;
-        }
+        slow->next=temp;
         return head;
     }
 };
