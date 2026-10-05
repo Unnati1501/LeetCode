@@ -10,28 +10,51 @@
  */
 class Solution {
 public:
+    ListNode* reverse_ll(ListNode* head){
+        ListNode* temp=head;
+        ListNode* prev=NULL;
+        ListNode* fwd=NULL;
+        while(temp!=NULL){
+            fwd=temp->next;
+            temp->next=prev;
+            prev=temp;
+            temp=fwd;
+        }
+        return prev;
+    }
+
     ListNode* rotateRight(ListNode* head, int k) {
         if(head==NULL || head->next==NULL){
             return head;
         }
         ListNode* temp=head;
-        vector<int> v;
+        int n=0;
         while(temp){
-            v.push_back(temp->val);
+            n++;
             temp=temp->next;
         }
-        int n=v.size();
+        
         k=k%n;
-        reverse(v.begin(),v.end());
-        reverse(v.begin(),v.begin()+k);
-        reverse(v.begin()+k,v.end());
-        temp=head;
+        if(k==0){
+            return head;
+        }
+
+        ListNode* root=reverse_ll(head);
+        ListNode* first=root;
+        temp=root;
+
         int i=0;
-        while(temp){
-            temp->val=v[i];
+        while(i<k-1){
             temp=temp->next;
             i++;
         }
-        return head;
+        ListNode* second=temp->next;
+        temp->next=NULL;
+
+        ListNode* p=reverse_ll(root);
+        ListNode* q=reverse_ll(second);
+        first->next=q;
+
+        return p;
     }
 };
