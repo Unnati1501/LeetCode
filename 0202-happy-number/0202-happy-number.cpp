@@ -15,7 +15,7 @@ public:
         unordered_map<int,int>freq;
         while(sum!=1){
             sum=getSum(sum);
-            if(freq.find(sum)!=freq.end()){
+            if(freq.count(sum)==1){
                 return false;
             }
             freq[sum]+=1;
