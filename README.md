@@ -48,6 +48,7 @@
 | [0022-generate-parentheses](https://github.com/Unnati1501/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Unnati1501/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Unnati1501/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Unnati1501/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Unnati1501/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Stack
 |  |
@@ -57,6 +58,7 @@
 | [0143-reorder-list](https://github.com/Unnati1501/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Unnati1501/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0856-score-of-parentheses](https://github.com/Unnati1501/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Unnati1501/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Unnati1501/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Unnati1501/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Unnati1501/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -67,6 +69,7 @@
 | [0022-generate-parentheses](https://github.com/Unnati1501/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Unnati1501/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Unnati1501/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Unnati1501/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Unnati1501/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Math
 |  |
@@ -95,4 +98,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Unnati1501/LeetCode/tree/master/0202-happy-number) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Unnati1501/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
