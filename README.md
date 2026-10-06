@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Unnati1501/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Unnati1501/LeetCode/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Unnati1501/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0143-reorder-list](https://github.com/Unnati1501/LeetCode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Unnati1501/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Unnati1501/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Unnati1501/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
@@ -70,6 +72,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Unnati1501/LeetCode/tree/master/0002-add-two-numbers) |
+| [0202-happy-number](https://github.com/Unnati1501/LeetCode/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,4 +91,8 @@
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/Unnati1501/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Unnati1501/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
