@@ -11,12 +11,15 @@ public:
         return sum;
     }
     bool isHappy(int n) {
-        int slow=n;
-        int fast=n;
-        do{
-            slow=getSum(slow);
-            fast=getSum(getSum(fast));
-        }while(slow!=fast);
-        return slow==1;
+        int sum=n;
+        unordered_map<int,int>freq;
+        while(sum!=1){
+            sum=getSum(sum);
+            if(freq.find(sum)!=freq.end()){
+                return false;
+            }
+            freq[sum]+=1;
+        }
+        return true;
     }
 };
