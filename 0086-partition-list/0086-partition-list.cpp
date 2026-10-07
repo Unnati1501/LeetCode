@@ -11,24 +11,42 @@
 class Solution {
 public:
     ListNode* partition(ListNode* head, int x) {
-      ListNode* dummy=new ListNode(0);;
-      ListNode* temp=dummy;
-      ListNode* curr=head;
-      while(curr!=NULL){
-        if(curr->val<x){
-            temp->next=new ListNode(curr->val);
-            temp=temp->next;
+      ListNode* temp=head;
+      ListNode* temp1=NULL;
+      ListNode* temp2=NULL;
+      ListNode* head1=NULL;
+      ListNode* head2=NULL;
+      while(temp!=NULL){
+        ListNode* next=temp->next;
+        if(temp->val<x){
+            if(temp1==NULL){
+                temp1=temp;
+                head1=temp1;
+            }
+            else{
+                temp1->next=temp;
+                temp1=temp1->next;
+            }
         }
-        curr=curr->next;
-      }
-      curr=head;
-      while(curr!=NULL){
-        if(curr->val>=x){
-            temp->next=new ListNode(curr->val);
-            temp=temp->next;
+        else{
+            if(temp2==NULL){
+                temp2=temp;
+                head2=temp2;
+            }
+            else{
+                temp2->next=temp;
+                temp2=temp2->next;
+            }
         }
-        curr=curr->next;
+        temp=next;
       }
-      return dummy->next;    
+      if(temp2!=NULL){
+        temp2->next=NULL;
+      }  
+      if(head1!=NULL){
+        temp1->next=head2;
+        return head1;
+      }
+      return head2; 
     }
 };
