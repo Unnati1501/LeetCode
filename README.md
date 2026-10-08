@@ -106,6 +106,7 @@
 ## Array
 |  |
 | ------- |
+| [0896-monotonic-array](https://github.com/Unnati1501/LeetCode/tree/master/0896-monotonic-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Unnati1501/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
