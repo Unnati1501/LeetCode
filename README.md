@@ -12,6 +12,7 @@
 | [0061-rotate-list](https://github.com/Unnati1501/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Unnati1501/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Unnati1501/LeetCode/tree/master/0086-partition-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Unnati1501/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/Unnati1501/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Unnati1501/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Unnati1501/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -35,6 +36,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Unnati1501/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Unnati1501/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Unnati1501/LeetCode/tree/master/0202-happy-number) |
 ## Two Pointers
