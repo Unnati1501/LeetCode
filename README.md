@@ -115,6 +115,7 @@
 | [0941-valid-mountain-array](https://github.com/Unnati1501/LeetCode/tree/master/0941-valid-mountain-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Unnati1501/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Unnati1501/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Unnati1501/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -150,4 +151,8 @@
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Unnati1501/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Unnati1501/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
