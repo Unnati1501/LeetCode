@@ -39,6 +39,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/Unnati1501/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Unnati1501/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Unnati1501/LeetCode/tree/master/0202-happy-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Unnati1501/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Unnati1501/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Two Pointers
 |  |
@@ -116,6 +117,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Unnati1501/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Unnati1501/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0896-monotonic-array](https://github.com/Unnati1501/LeetCode/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/Unnati1501/LeetCode/tree/master/0941-valid-mountain-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Unnati1501/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -189,5 +191,6 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Unnati1501/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Unnati1501/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Unnati1501/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
