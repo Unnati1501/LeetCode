@@ -98,6 +98,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Unnati1501/LeetCode/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/Unnati1501/LeetCode/tree/master/0202-happy-number) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Unnati1501/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -137,6 +138,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Unnati1501/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Unnati1501/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Unnati1501/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Unnati1501/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
