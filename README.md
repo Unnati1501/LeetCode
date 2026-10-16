@@ -43,6 +43,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Unnati1501/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Unnati1501/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Unnati1501/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Unnati1501/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -132,6 +133,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/Unnati1501/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Unnati1501/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Unnati1501/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Unnati1501/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -211,8 +213,10 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Unnati1501/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Unnati1501/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Unnati1501/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Unnati1501/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
