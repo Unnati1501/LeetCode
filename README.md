@@ -44,6 +44,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Unnati1501/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Unnati1501/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Unnati1501/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Unnati1501/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,6 +135,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Unnati1501/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Unnati1501/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Unnati1501/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Unnati1501/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -155,6 +157,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/Unnati1501/LeetCode/tree/master/0148-sort-list) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Unnati1501/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Unnati1501/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Merge Sort
 |  |
 | ------- |
