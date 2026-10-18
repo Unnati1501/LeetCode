@@ -102,12 +102,14 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Unnati1501/LeetCode/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/Unnati1501/LeetCode/tree/master/0202-happy-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Unnati1501/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Unnati1501/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Unnati1501/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Unnati1501/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Unnati1501/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Backtracking
 |  |
 | ------- |
@@ -128,6 +130,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Unnati1501/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Unnati1501/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1480-running-sum-of-1d-array](https://github.com/Unnati1501/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Unnati1501/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1646-get-maximum-in-generated-array](https://github.com/Unnati1501/LeetCode/tree/master/1646-get-maximum-in-generated-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Unnati1501/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Unnati1501/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -152,6 +155,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Unnati1501/LeetCode/tree/master/0148-sort-list) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Unnati1501/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Sorting
 |  |
 | ------- |
@@ -188,6 +192,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Unnati1501/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Unnati1501/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Unnati1501/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Unnati1501/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -200,6 +205,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Unnati1501/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Unnati1501/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Unnati1501/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Unnati1501/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -222,4 +228,24 @@
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Unnati1501/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Unnati1501/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Unnati1501/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Unnati1501/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Unnati1501/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Unnati1501/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Unnati1501/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
