@@ -104,6 +104,7 @@
 | [0202-happy-number](https://github.com/Unnati1501/LeetCode/tree/master/0202-happy-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Unnati1501/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Unnati1501/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/Unnati1501/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Unnati1501/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Unnati1501/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Unnati1501/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3886-sum-of-sortable-integers](https://github.com/Unnati1501/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -164,6 +166,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Unnati1501/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Unnati1501/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Unnati1501/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3886-sum-of-sortable-integers](https://github.com/Unnati1501/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Merge Sort
 |  |
 | ------- |
@@ -185,6 +188,7 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Unnati1501/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/Unnati1501/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
