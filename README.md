@@ -38,6 +38,7 @@
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Unnati1501/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Unnati1501/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Unnati1501/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Unnati1501/LeetCode/tree/master/0202-happy-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Unnati1501/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Unnati1501/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -127,6 +128,7 @@
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Unnati1501/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Unnati1501/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Unnati1501/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0896-monotonic-array](https://github.com/Unnati1501/LeetCode/tree/master/0896-monotonic-array) |
@@ -165,11 +167,13 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Unnati1501/LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Unnati1501/LeetCode/tree/master/0169-majority-element) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Unnati1501/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Unnati1501/LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Unnati1501/LeetCode/tree/master/0169-majority-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Unnati1501/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Unnati1501/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Unnati1501/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -274,4 +278,12 @@
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Unnati1501/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Unnati1501/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Unnati1501/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Unnati1501/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
