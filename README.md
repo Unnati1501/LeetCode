@@ -40,6 +40,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Unnati1501/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Unnati1501/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Unnati1501/LeetCode/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/Unnati1501/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Unnati1501/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Unnati1501/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Unnati1501/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Unnati1501/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Unnati1501/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Unnati1501/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Unnati1501/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0896-monotonic-array](https://github.com/Unnati1501/LeetCode/tree/master/0896-monotonic-array) |
@@ -174,6 +176,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/Unnati1501/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Unnati1501/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Unnati1501/LeetCode/tree/master/0229-majority-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Unnati1501/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Unnati1501/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Unnati1501/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -282,8 +285,10 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Unnati1501/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Unnati1501/LeetCode/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Unnati1501/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Unnati1501/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
