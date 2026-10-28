@@ -116,6 +116,7 @@
 | [0022-generate-parentheses](https://github.com/Unnati1501/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Unnati1501/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Unnati1501/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Unnati1501/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -151,6 +152,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Unnati1501/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Unnati1501/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Unnati1501/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Unnati1501/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Unnati1501/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Unnati1501/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Floyd's Cycle Finding Algorithm
@@ -210,6 +212,7 @@
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Unnati1501/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Unnati1501/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Unnati1501/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Tree
 |  |
 | ------- |
@@ -281,6 +284,7 @@
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Unnati1501/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Unnati1501/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Unnati1501/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Counting
 |  |
 | ------- |
