@@ -135,6 +135,7 @@
 | [0229-majority-element-ii](https://github.com/Unnati1501/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Unnati1501/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Unnati1501/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/Unnati1501/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0896-monotonic-array](https://github.com/Unnati1501/LeetCode/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/Unnati1501/LeetCode/tree/master/0941-valid-mountain-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Unnati1501/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -303,4 +304,8 @@
 | ------- |
 | [0169-majority-element](https://github.com/Unnati1501/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Unnati1501/LeetCode/tree/master/0229-majority-element-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Unnati1501/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
