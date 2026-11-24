@@ -122,6 +122,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Unnati1501/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Unnati1501/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Unnati1501/LeetCode/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Unnati1501/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Unnati1501/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Unnati1501/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Unnati1501/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -181,6 +182,7 @@
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Unnati1501/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Unnati1501/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Unnati1501/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Unnati1501/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Unnati1501/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Unnati1501/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Unnati1501/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -255,6 +257,7 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Unnati1501/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Unnati1501/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3886-sum-of-sortable-integers](https://github.com/Unnati1501/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
 |  |
@@ -364,6 +367,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Unnati1501/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Unnati1501/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Unnati1501/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Unnati1501/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Unnati1501/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Graph Theory
 |  |
@@ -377,4 +381,8 @@
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Unnati1501/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Unnati1501/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
