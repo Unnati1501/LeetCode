@@ -123,6 +123,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Unnati1501/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Unnati1501/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Unnati1501/LeetCode/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/Unnati1501/LeetCode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Unnati1501/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Unnati1501/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Unnati1501/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -312,6 +313,7 @@
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Unnati1501/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1646-get-maximum-in-generated-array](https://github.com/Unnati1501/LeetCode/tree/master/1646-get-maximum-in-generated-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Unnati1501/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/Unnati1501/LeetCode/tree/master/3360-stone-removal-game) |
 ## Binary Indexed Tree
 |  |
 | ------- |
